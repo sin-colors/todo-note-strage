@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/todo-note1/static/css/main.51a33d6c.css",
-    "main.js": "/todo-note1/static/js/main.74ea04a7.js",
-    "static/js/787.2843ca88.chunk.js": "/todo-note1/static/js/787.2843ca88.chunk.js",
-    "index.html": "/todo-note1/index.html",
-    "main.51a33d6c.css.map": "/todo-note1/static/css/main.51a33d6c.css.map",
-    "main.74ea04a7.js.map": "/todo-note1/static/js/main.74ea04a7.js.map",
-    "787.2843ca88.chunk.js.map": "/todo-note1/static/js/787.2843ca88.chunk.js.map"
+    "main.css": "/todo-note-strage/static/css/main.51a33d6c.css",
+    "main.js": "/todo-note-strage/static/js/main.74ea04a7.js",
+    "static/js/787.2843ca88.chunk.js": "/todo-note-strage/static/js/787.2843ca88.chunk.js",
+    "index.html": "/todo-note-strage/index.html",
+    "main.51a33d6c.css.map": "/todo-note-strage/static/css/main.51a33d6c.css.map",
+    "main.74ea04a7.js.map": "/todo-note-strage/static/js/main.74ea04a7.js.map",
+    "787.2843ca88.chunk.js.map": "/todo-note-strage/static/js/787.2843ca88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51a33d6c.css",
